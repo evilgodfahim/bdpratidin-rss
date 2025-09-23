@@ -10,3 +10,4 @@ This repository generates an **RSS feed** of the "Open Air Theater" editorials f
 ## 🔗 Feed URL
 After enabling GitHub Pages, the feed will be available at:
 
+https://evilgodfahim.github.io/bdpratidin-rss/feed.xml
